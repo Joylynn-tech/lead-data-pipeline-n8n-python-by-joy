@@ -30,29 +30,6 @@ GitHub-Version control & portfolio
 
 Synthetic dataset of 1,000 leads generated with Python simulating a legal services lead generation business.
 
-📊Columns
-
-Description
-Lead ID
-Unique identifier
-Full Name
-Contact name
-Email / Phone
-Contact details
-State
-US state
-Lead Source
-Google Ads, LinkedIn, Referral, etc.
-Service Interest
-Personal Injury, SSDI, Mass Tort, etc.
-Pipeline Stage
-New Lead → Contacted → Qualified → Won / Lost
-Assigned Rep
-Auto-assigned based on lead source
-Date Created
-Last 6 months
-Estimated Revenue
-Dollar value for Won deals only
 
 🔁 Pipeline Walkthrough
 
