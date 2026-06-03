@@ -55,33 +55,33 @@ Generates business insights automatically — no manual interpretation needed.
 
 📈 Key Findings
 
-Total Leads-1,000 across 9 sources
+1.Total Leads-1,000 across 9 sources
 
-Best Lead Source-LinkedIn — 137 leads
+2.Best Lead Source-LinkedIn — 137 leads
 
-Best Converting Source-Referral — highest Won rate
+3.Best Converting Source-Referral — highest Won rate
 
-Leads Needing Follow-up-324 stuck in New Lead stage
+4.Leads Needing Follow-up-324 stuck in New Lead stage
 
-Conversion Rate-7.2% — above 2-5% industry average
+5.Conversion Rate-7.2% — above 2-5% industry average
 
-Total Won Revenue-$1,983,085 from 72 deals
+6.Total Won Revenue-$1,983,085 from 72 deals
 
-Recommendation-Increase Referral budget. Follow up on 324 stale leads.
+7.Recommendation-Increase Referral budget. Follow up on 324 stale leads.
 
 💡 Skills Demonstrated
 
-Workflow Automation (n8n)
+1.Workflow Automation (n8n)
 
-Python scripting (cleaning, EDA, deductions)
+2.Python scripting (cleaning, EDA, deductions)
 
-Data cleaning and validation
+3.Data cleaning and validation
 
-Exploratory Data Analysis
+4.Exploratory Data Analysis
 
-Business insight generation
+5.Business insight generation
 
-Synthetic data generation
+6.Synthetic data generation
 
 👩🏾‍💻 About Me
 
