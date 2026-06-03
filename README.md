@@ -111,5 +111,7 @@ Synthetic data generation
 Hi! I'm Joylynn, a data analyst based in Nairobi, Kenya with 3+ years of experience in supply chain data analysis. I'm passionate about using data and automation to solve real business problems.
 
 📸 Follow my learning journey: @joywithdata
+
 💼 Open to freelance data analyst and automation projects
+
 Built with 💛 by Joylynn Mumbi Ngari
