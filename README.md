@@ -1,17 +1,21 @@
 🔄 End-to-End Lead Data Pipeline with n8n and Python
+
 A fully automated data pipeline that extracts, cleans, analyzes, and generates business deductions from 1,000 leads — running on a daily schedule with zero manual intervention.
 Built by Joylynn Mumbi Ngari | @joywithdata
+
 📌 Project Overview
 Small businesses waste hours manually tracking leads across spreadsheets with no visibility into which channels convert best. This project solves that by building a fully automated pipeline that does the heavy lifting every day at 8:00 AM — no human needed.
+
 ❗ Problem Statement
 Manual lead tracking is time-consuming and error-prone
 No visibility into which lead sources convert best
 Leads sit untouched with no system to flag them
 Revenue attribution is unclear — making budget decisions difficult
 Reports take hours to produce manually each week
+
 ✅ Solution
 A 5-node automated pipeline built in n8n:
-Code
+
 🛠️ Tech Stack
 Tool
 Purpose
@@ -23,6 +27,7 @@ Python (n8n Code node)
 Cleaning, EDA, deductions
 GitHub
 Version control & portfolio
+
 📊 Dataset
 Synthetic dataset of 1,000 leads generated with Python simulating a legal services lead generation business.
 Column
@@ -47,50 +52,34 @@ Date Created
 Last 6 months
 Estimated Revenue
 Dollar value for Won deals only
+
 🔁 Pipeline Walkthrough
 1. Schedule Trigger
 Runs automatically every day at 8:00 AM. No manual action needed.
 2. Data Extraction
 n8n connects to Google Sheets via OAuth2 and pulls all 1,000 rows automatically.
-�
-Load image
 3. Data Cleaning (Python)
 Strips whitespace from all text fields
 Standardizes Lead Source and Pipeline Stage to title case
 Handles missing email addresses
 Converts Estimated Revenue to float
-�
-Load image
 4. EDA (Python)
 Counts leads by source, pipeline stage, and assigned rep
 Calculates total revenue from Won deals
 Identifies best converting sources
-�
-Load image
 5. Automated Deductions (Python)
 Generates business insights automatically — no manual interpretation needed.
-�
-Load image
-Full Pipeline Running
-�
-Load image
+
 📈 Key Findings
-Metric
-Finding
-Total Leads
-1,000 across 9 sources
-Best Lead Source
-LinkedIn — 137 leads
-Best Converting Source
-Referral — highest Won rate
-Leads Needing Follow-up
-324 stuck in New Lead stage
-Conversion Rate
-7.2% — above 2-5% industry average
-Total Won Revenue
-$1,983,085 from 72 deals
-Recommendation
-Increase Referral budget. Follow up on 324 stale leads.
+
+Total Leads-1,000 across 9 sources
+Best Lead Source-LinkedIn — 137 leads
+Best Converting Source-Referral — highest Won rate
+Leads Needing Follow-up-324 stuck in New Lead stage
+Conversion Rate-7.2% — above 2-5% industry average
+Total Won Revenue-$1,983,085 from 72 deals
+Recommendation-Increase Referral budget. Follow up on 324 stale leads.
+
 💡 Skills Demonstrated
 Workflow Automation (n8n)
 Python scripting (cleaning, EDA, deductions)
@@ -98,17 +87,7 @@ Data cleaning and validation
 Exploratory Data Analysis
 Business insight generation
 Synthetic data generation
-RevOps and lead attribution thinking
-Technical documentation
-🚀 Next Steps — Version 2
-[ ] Integrate Claude API for AI-powered natural language deductions
-[ ] Add Gmail node to auto-email weekly report
-[ ] Replace Google Sheets with PostgreSQL database
-[ ] Add HubSpot CRM integration for real lead routing
-[ ] Build Power BI dashboard connected to cleaned output
-[ ] Self-host n8n for unlimited free executions
-📁 Project Structure
-Code
+
 👩🏾‍💻 About Me
 Hi! I'm Joylynn, a data analyst based in Nairobi, Kenya with 3+ years of experience in supply chain data analysis. I'm passionate about using data and automation to solve real business problems.
 📸 Follow my learning journey: @joywithdata
