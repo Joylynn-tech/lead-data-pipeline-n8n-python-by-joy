@@ -1,16 +1,16 @@
 🔄 End-to-End Lead Data Pipeline with n8n and Python
 
-A fully automated data pipeline that extracts, cleans, analyzes, and generates business deductions from 1,000 leads — running on a daily schedule with zero manual intervention.
+A fully automated data pipeline that extracts, cleans, analyzes, and generates business deductions from 1,000 leads running on a daily schedule with zero manual intervention.
 Built by Joylynn Mumbi Ngari | @joywithdata
 
 📌 Project Overview
-Small businesses waste hours manually tracking leads across spreadsheets with no visibility into which channels convert best. This project solves that by building a fully automated pipeline that does the heavy lifting every day at 8:00 AM — no human needed.
+Small businesses waste hours manually tracking leads across spreadsheets with no visibility into which channels convert best. This project solves that by building a fully automated pipeline that does the heavy lifting every day at 8:00 AM  no human needed.
 
 ❗ Problem Statement
 Manual lead tracking is time-consuming and error-prone
 No visibility into which lead sources convert best
 Leads sit untouched with no system to flag them
-Revenue attribution is unclear — making budget decisions difficult
+Revenue attribution is unclear making budget decisions difficult
 Reports take hours to produce manually each week
 
 ✅ Solution
